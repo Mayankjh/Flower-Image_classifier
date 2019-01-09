@@ -40,4 +40,4 @@ As the network makes use of a sophisticated deep convolutional neural network  t
 * **MAYANK JHA** - *Initial work* 
 * **Udacity** - *PyTorch Deep Learning Scholarship 2018-2019*
 
-This project is licensed under the MIT License - see the [LICENSE.md]( https://mayankjha.mit-license.org/)
+This project is licensed under the MIT License - see the [LICENSE]( https://mayankjha.mit-license.org/)
